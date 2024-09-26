@@ -93,11 +93,6 @@ This Agreement constitutes the entire agreement between the parties with respect
 
 By using the Software, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms and conditions.
 
-[Your Company Name]
-[Your Company Address]
-[Your Company Contact Information]
-
-Last Updated: [Date]
 
 
 ---
